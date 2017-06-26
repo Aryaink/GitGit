@@ -1,0 +1,20 @@
+{
+    "name": "aryaink/git-git",
+    "description": "Test Project for Composer Github PhpStorm and pakagist",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aryaink",
+            "email": "arya@aryaink.com",
+            "homepage": "https://github.com/aryaink"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Aryaink\\git-git\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
