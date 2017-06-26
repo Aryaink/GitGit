@@ -1,6 +1,6 @@
 {
     "name": "aryaink/gitgit",
-    "description": "Test Project for Composer Github PhpStorm and pakagist",
+    "description": "Test Project for Composer Github pakagist",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -16,5 +16,4 @@
         }
     },
     "minimum-stability": "dev",
-    "require": {}
 }
